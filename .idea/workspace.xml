@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a598b39-a14d-4d02-9ad9-589339e2465c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btnbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btnbg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btnbg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btnbg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/btnbg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/buttonbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bz00.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bz01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bz02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/c01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/c02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/c03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/cbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/clist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/close1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/d07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/default.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/diskbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/div.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/dl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_05.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_06.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_07.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_08.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_09.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/emoticons/etc_36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/f06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/fjt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/i09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/iadd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ibtnbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ico06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/icon18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/img15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/inputbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/itabbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/itabbg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/jszc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/jtx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/l01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/l02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/l03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/l04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lbg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lc06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftico01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftico02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftico03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftico04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/leftmenubg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/lefttop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/libg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/light1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/line1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/list1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/list2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginbg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginbg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginbg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginbg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logininfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logininfo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logininfo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logininfo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginlogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginpassword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginsj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/loginuser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/navbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/ol.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/p.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/pre.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/righttop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/rlist.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sub-menu-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/t01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/t02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/t03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/t04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/t05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/tbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/tcbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/th.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ticon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/tinymce.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/toolbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/topbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/topleft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/topright.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ub1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/uew_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/uew_icon_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/ul.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/ulist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/userbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/yzmbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMS.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/IMS.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/cloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/filelist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/flash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/flow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/format+zh_CN,default,corechart.I.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imglist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imglist1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgtable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.ba-resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.gvChart-1.0.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.idTabs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jsapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/kindeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/left.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/plainpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/project.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/remote_image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/right.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/select-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/tech.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/skins/tinymce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editor/plugins/wordpaste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="IMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="IMS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5235602">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMS.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IMS.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lbxue" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/login.html" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32988507" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdealProjects\IMS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.26">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 8.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.26" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:63342/IMS/web/login.html" />
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="IMS">
+          <settings>
+            <option name="CONTEXT_PATH" value="/IMS" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_IMS_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53036" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="IMS" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.0.26" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a598b39-a14d-4d02-9ad9-589339e2465c" name="Default" comment="" />
+      <created>1471859186476</created>
+      <option name="number" value="Default" />
+      <updated>1471859186476</updated>
+      <workItem from="1471859187779" duration="1808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1808000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/js/PIE.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMS.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5235602">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>IMS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IMS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32988507" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
